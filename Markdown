@@ -1,0 +1,11 @@
+https://guides.github.com/features/mastering-markdown/
+
+# A Title
+## A smaller title
+### An even smaller title
+
+This is **bold**
+This is *italic*
+This is a [link to somewhere] (http:https://theuselessweb.com/)
+
+

@@ -16,3 +16,16 @@ This is the [notebook]: https://github.com/valterhashimoto/Cloud_Computing_Found
 ### Image
 
 ![image](https://user-images.githubusercontent.com/50432933/118197730-e3964d80-b425-11eb-89bb-1dbea7f52249.png)
+
+
+https://guides.github.com/features/mastering-markdown/
+
+# A Title
+## A smaller title
+### An even smaller title
+
+This is **bold**
+This is *italic*
+This is a [link to somewhere] (http:https://theuselessweb.com/)
+
+
